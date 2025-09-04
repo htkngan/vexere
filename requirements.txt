@@ -1,10 +1,17 @@
-fastapi==0.104.1
-uvicorn==0.24.0
-python-dotenv==1.0.0
-google-generativeai==0.3.2
-chromadb==0.4.17
-sentence-transformers==2.2.2
-redis==5.0.1
-fuzzywuzzy==0.18.0
-python-levenshtein==0.23.0
-pydantic==2.5.0
+fastapi[standard]
+uvicorn
+python-dotenv
+google-genai
+chromadb
+sentence-transformers
+redis
+fuzzywuzzy
+python-levenshtein
+pydantic
+
+# OCR dependencies
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+Pillow>=9.0.0
+opencv-python>=4.5.0
+numpy>=1.21.0
