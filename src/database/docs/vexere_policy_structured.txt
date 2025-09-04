@@ -1,0 +1,578 @@
+TITLE: Nền tảng vé xe khách kết nối hành khách và nhà xe - Vexere.com
+URL: https://vexere.com/vi-VN/quy-che
+TOTAL ELEMENTS: 628
+================================================================================
+
+## QUẢN LÝ HOẠT ĐỘNG CỦA SÀN GIAO DỊCH THƯƠNG MẠI ĐIỆN TỬ VEXERE
+
+  📄 Chào mừng bạn (“hành khách” hoặc “bạn”) ghé thăm sàn giao dịch thương mại điện tử Vexere (bao gồm website Vexere.com và ứng dụng di động Vexere). Sàn giao dịch thương mại điện tử Vexere của chúng tôi  (“Vexere” hoặc “chúng tôi”) – thuộc quyền sở hữu của Công ty TNHH Thương Mại Dịch Vụ Vexere – là tổ hợp các dịch vụ phục vụ nhu cầu liên quan đến đặt xe khách trực tuyến, nhằm hỗ trợ tối đa cho tất cả các đối tượng có nhu cầu đi lại, các hãng xe có nhu cầu bán dịch vụ xe khách và dịch vụ vận chuyển hành khách qua hệ thống trực tuyến.
+
+  📄 Bằng việc truy cập, xem, sử dụng và/hoặc bằng việc đặt dịch vụ xe khách qua Vexere, bạn xác nhận đồng ý và đã đọc, hiểu và chấp thuận bị ràng buộc bởi Quy chế hoạt động của Vexere và các Điều khoản sử dụng, các chính sách, hướng dẫn khác của chúng tôi, mà bạn có thể thấy trên khắp sàn giao dịch thương mại điện tử, bao gồm nhưng không giới hạn ở Chính sách Bảo mật, Chính sách hủy đơn hàng, Chính sách hoàn tiền, Hướng dẫn thanh toán, Cơ chế giải quyết tranh chấp v.v… Các điều khoản đưa ra dưới đây nếu không chấp thuận, xin vui lòng ngưng việc sử dụng sàn giao dịch thương mại điện tử ngay lập tức.
+
+  📄 Lưu ý: Chỗ ngồi không đặt được trên Vexere không đồng nghĩa là chỗ đó đã được bán. Nhà xe có thể muốn giữ chỗ đó để xử lý trường hợp đặc biệt, hoặc không mở bán trên Sàn, hoặc vì các lý do khác phụ thuộc vào nghiệp vụ nhà xe.
+
+## Các thuật ngữ sử dụng tại Sàn giao dịch thương mại điện tử Vexere và các dịch vụ mà Vexere cung cấp
+
+  ### Các thuật ngữ
+
+    📄 “Biểu phí”: là các loại phí thuế theo quy định của Hãng vận tải và Nhà chức trách.
+
+    📄 “Tuyến đường”: Được xác định bởi hành trình điểm đi, điểm đến đối với xe tuyến cố định và nơi đi, nơi đến của xe hợp đồng và xe du lịch.
+
+    📄 “Bến xe ô tô khách“: là công trình thuộc kết cấu hạ tầng giao thông đường bộ thực hiện chức năng phục vụ xe ô tô đón, trả hành khách và các dịch vụ hỗ trợ vận tải hành khách.
+
+    📄 “Điểm dừng”: là điểm dừng theo lịch trong hành trình của hành khách, tại điểm giữa điểm khởi hành và điểm đến.
+
+    📄 “Điều kiện bất khả kháng”: Là sự kiện xảy ra mang tính khách quan và nằm ngoài tầm kiểm soát của các bên bao gồm, nhưng không giới hạn đến động đất, bão, lũ lụt, lốc, sóng thần, lở đất, hỏa hoạn, chiến tranh hoặc có nguy cơ xảy ra chiến tranh, bạo động, nổi loạn, đình công… và các thảm họa khác chưa lường hết được, sự thay đổi chính sách hoặc ngăn cấm của cơ quan có thẩm quyền của Việt Nam.
+
+    📄 “Điều kiện vận chuyển”: là các yêu cầu, nội dung của hãng xe và Vexere thông báo đến hành khách liên quan đến các dịch vụ vận chuyển, bao gồm các thông tin được thể hiện trên đơn hàng/phiếu xác nhận hành trình và/hoặc trên website, ứng dụng và/hoặc trong điều khoản sử dụng đã được phê duyệt và/hoặc các hình thức công bố khác.
+
+    📄 “Điều khoản sử dụng”: là các điều khoản được ghi trên hoá đơn hoặc hoá đơn điện từ (Tờ hành trình/phiếu thu hoặc tờ xác nhận hành trình) được dẫn chiếu từ Quy chế hoạt động này và các thông báo khác.
+
+    📄 “Hoá đơn”: là tờ hành trình/phiếu thu hoặc tờ xác nhận hành trình do hãng vận chuyển hoặc do Vexere hoặc đại diện ủy quyền của Vexere cung cấp cho hành khách,. Trong đó có tên hành khách, mã đơn hàng, thông tin hành trình và các thông báo khác cho hành trình, được Vexere hoặc đại diện ủy quyền của Vexere gửi qua hệ thống thư điện tử đã được đăng ký khi sử dụng dịch vụ. Với các tuyến cố định, hoá đơn còn được gọi là “vé”. Trong trường hợp hãng vận chuyển cung cấp dịch vụ xe hợp đồng hoặc xe du lịch cho hành khách, “vé” được hiểu là phiếu xác nhận hành trình.
+
+    📄 “Giá cước”: là giá, phụ thu của giá được các hãng xe công bố và/hoặc các điều kiện vận chuyển liên quan.
+
+    📄 “Hãng vận chuyển”: bao gồm xe chạy tuyến cố định, xe du lịch, xe hợp đồng.
+
+    📄 “Hành khách”: là bất kỳ người nào sử dụng dịch vụ tại Vexere.
+
+    📄 “Hợp đồng vận chuyển”: là các thỏa thuận của Hãng vận chuyển và hành khách trong việc cung cấp các dịch vụ theo nhu cầu của hành khách được thể hiện bằng vé hoặc hình thức khác có giá trị tương đương với vé.
+
+    📄 “Đặt chỗ”: ở đây được dùng cho xe chạy tuyến cố định, và được hiểu là đặt tour khách lẻ với xe du lịch, và được hiểu là thuê xe đối với xe hợp đồng.
+
+    #### 1. Hoá đơn
+
+      📄 Hoá đơn là bằng chứng xác nhận hợp đồng vận chuyển hành khách và Hãng vận chuyển.
+
+      📄 Hoá đơn chỉ có giá trị đối với hành khách có tên và hành trình được ghi rõ trong hoá đơn.
+
+      📄 Hãng vận tải chỉ cung cấp dịch vụ vận chuyển cho hành khách có tên trên hoá đơn.
+
+      📄 Hoá đơn chỉ có thể được chuyển nhượng, đổi, hoàn, hủy theo quy định của điều khoản sử dụng, điều kiện hoá đơn và biểu phí ban hành trong từng thời kỳ.
+
+    #### 2. Giá/Cước vận chuyển
+
+      📄 Giá cước là giá do Hãng vận tải công bố vào từng thời điểm đặt chỗ.
+
+      📄 Hành khách có trách nhiệm thanh toán mọi khoản thuế, phí và lệ phí; phụ thu áp dụng cho hành khách được quy định bởi Nhà chức trách hoặc tổ chức có thẩm quyền, hoặc Vexere hoặc các Hãng vận chuyển. Tại thời điểm đặt chỗ hành khách sẽ được thông báo các khoản thuế, phí và lệ phí, phụ thu ngoài giá cước.
+
+      📄 Vexere có quyền từ chối cung cấp dịch vụ và Hãng vận tải có quyền từ chối vận chuyển hành khách và hành lý nếu như giá cước áp dụng, thuế, phí và lệ phí, phụ thu không được thanh toán đầy đủ.
+
+      📄 Giá cước, thuế, phí và lệ phí; phụ thu được thanh toán bằng đồng tiền quy định trên hệ thống do Vexere công bố, trừ trường hợp pháp luật có quy định khác hoặc có quyết định khác từ cơ quan nhà nước có thẩm quyền.
+
+    #### 3. Điểm dừng
+
+      📄 Điểm dừng có thể được chấp nhận nếu phù hợp với yêu cầu của Nhà chức trách và quy định của Hãng vận chuyển.
+
+      📄 Điểm dừng phải được thu xếp trước với hãng vận chuyển và được ghi trên hoá đơn.
+
+    #### 4. Đặt chỗ
+
+      📄 “Đặt giữ chỗ”: Được thực hiện trên hệ thống thông qua Sàn giao dịch thương mại điện tử hoặc Phòng vé hoặc Đại lý hoặc Tổng đài, sau đó hành khách sẽ được cấp mã số đặt chỗ.
+
+      📄 “Xác nhận đặt chỗ”: Được thực hiện sau khi hành khách hoàn tất việc thanh toán trên hệ thống. Hành khách sẽ được cấp hoá đơn với mã số đặt chỗ được xác nhận.
+
+      📄 Trong một số trường hợp, việc đặt chỗ có xác định thời gian cần thanh toán trước giờ khởi hành, hành khách phải hoàn thành việc thanh toán thì hành khách mới được cấp mã đặt chỗ và xác nhận chỗ.
+
+      📄 Thay đổi đặt giữ chỗ bao gồm thay đổi tên hành khách, hành trình, thời gian khởi hành, được quy định như sau:
+
+      📄 Quý khách phải thanh toán các khoản phí thay đổi và chênh lệch giá (nếu có) do việc thay đổi đặt chỗ của quý khách.
+
+      📄 Việc thay đổi chỉ được hoàn thành sau khi thanh toán phí thay đổi theo Biểu phí của Vexere công bố từng thời kỳ và chênh lệch Giá cước vận chuyển (nếu có). Vexere sẽ cập nhật lại thông tin thay đổi vào đơn hàng của hành khách.
+
+      📄 Đặt chỗ phải được thanh toán đầy đủ trước khi Vexere xác nhận đặt chỗ thành công. Trong bất kỳ trường hợp nào mà giá trị đơn hàng không được thanh toán đầy đủ thì Vexere có quyền hủy đặt chỗ.
+
+      📄 “Thông tin cá nhân”: Hành khách chấp nhận rằng thông tin cá nhân của hành khách được chuyển cho Vexere vì mục đích sử dụng dịch vụ do Vexere cung cấp. Vì mục đích trên, hành khách đồng ý cho phép Vexere lưu trữ và sử dụng các thông tin cá nhân và chuyển tải các thông tin đó tới hãng vận chuyển, các đại diện ủy quyền phát hành dịch vụ, cơ quan nhà nước có thẩm quyền, hoặc các nhà cung cấp dịch vụ liên quan khác.
+
+      📄 Vexere có thể sử dụng các thông tin cá nhân được hành khách cung cấp mà Vexere có được, bao gồm các thông tin về quá trình thanh toán của hành khách và các dịch vụ tiện ích khác sử dụng để phục vụ cho mục đích:
+
+      • Đặt giữ chỗ, thanh toán dịch vụ xe khách, cung cấp các dịch vụ vận chuyển, các dịch vụ và trang thiết bị có liên quan;
+
+      • Kế toán, xuất hóa đơn và kiểm toán, kiểm tra thẻ tín dụng hoặc thẻ thanh toán khác;
+
+      • Thống kê và phân tích thị trường, quản lý chương trình khách hàng thường xuyên;
+
+      • Quan hệ khách hàng;
+
+      • Tiếp thị trực tiếp và điều tra thị trường;
+
+      📄 “Chỗ ngồi”: Đã được quy định trong hoá đơn của hành khách. Hành khách sẽ được sắp chỗ khi lên xe, tuy nhiên hãng xe có quyền đổi chỗ của quý khách bất kỳ lúc nào, ngay cả khi hành khách đã lên xe. Việc thay đổi này có thể là bắt buộc vì các nguyên nhân an toàn, quy định của Nhà chức trách, sức khỏe của hành khách hoặc lý do an toàn.
+
+## Nguyên tắc hoạt động của Vexere
+
+  📄 Các tổ chức, cá nhân tham gia giao dịch trên Vexere phải tôn trọng quyền và lợi ích hợp pháp của các bên tham gia.
+
+  📄 “Mã xác nhận đặt chỗ”: Hoạt động mua bán dịch vụ thông qua hợp đồng mua bán là mã xác nhận đặt chỗ, do Vexere cung cấp cho hành khách đặt chỗ qua hệ thống của Vexere bao gồm ít nhất những thông tin sau: mã đơn hàng, số ghế. Mã xác nhận đặt chỗ không có giá trị như một hóa đơn giá trị gia tăng. Mã xác nhận đặt chỗ có thể ở dạng cứng do khách hàng in ra hoặc tin nhắn SMS hoặc email gửi từ Vexere, không trái với quy định của pháp luật.
+
+  📄 Dịch vụ vận chuyển hành khách tham gia giao dịch tại Vexere phải đáp ứng đầy đủ các quy định của pháp luật có liên quan, không thuộc các trường hợp cấm kinh doanh, cấm quảng cáo theo quy định của pháp luật hiện hành.
+
+  📄 Khi các thành viên và/hoặc đối tác truy cập vào website Vexere để mua dịch vụ thì mặc định rằng các thành viên và/hoặc đối tác đã đồng ý tuân thủ và chấp thuận bị ràng buộc bởi Quy chế hoạt động của Vexere.
+
+  📄 Vexere không sở hữu và/hoặc vận hành trực tiếp các dịch vụ xe khách. Hành khách có thể đặt dịch vụ xe khách trực tuyến từ bất cứ đâu có kết nối internet bằng cách lựa chọn hãng xe, thời gian khởi hành và giá cả, và có toàn quyền lựa chọn và sử dụng dịch vụ của các hãng xe trên Vexere.
+
+  📄 Nội dung văn bản này, cùng với các văn bản sửa đổi, bổ sung và thay thế theo thời gian, tạo thành một phần không tách rời của thỏa thuận mua bán giữa Vexere và người đặt dịch vụ xe khách. Những nội dung nào chưa được quy định rõ trong văn bản này, hoặc có bất kỳ sự đối lập nào sẽ được áp dụng theo các quy định và pháp luật hiện hành có liên quan.
+
+## Quy trình giao dịch
+
+  ### 1. Cách thức đặt chỗ và thanh toán trên Vexere
+
+    📄 Vexere được xây dựng nhằm hỗ trợ tối đa cho khách hàng có nhu cầu đặt chỗ xe khách trực tuyến, cung cấp đầy đủ thông tin các hãng xe và tuyến xe được khách hàng quan tâm, tư vấn nhiều lựa chọn dịch vụ vận chuyển hành khách phù hợp với nhu cầu của khách hàng. Ngoài ra, Vexere còn cung cấp cho khách hàng danh sách các nhà xe đáng tin cậy với đầy đủ thông tin giá cả, chính sách hỗ trợ để khách hàng tham khảo, giúp khách hàng tránh gặp phải những trường hợp không mong muốn như đặt dịch vụ không đảm bảo chất lượng, giá thành cao, hoặc một số vấn đề thường gặp khác
+
+    📄 Khi có nhu cầu đặt chỗ trên Vexere, khách hàng thực hiện theo các bước sau đây:
+
+    📄 Bước 1: Tìm kiếm tuyến xe khách hàng đang quan tâm bằng cách chọn nơi đi, nơi đến, ngày giờ đi trên Vexere và nhấn vào nút “Tìm chuyến”.
+
+    📄 Bước 2: Chọn chuyến xe, hãng xe, giá cả, thời điểm khởi hành phù hợp với nhu cầu đi và bấm vào nút “Chọn chuyến”.
+
+    📄 Bước 3: Chọn tiếp vị trí ghế ngồi trên xe (những ghế màu trắng là ghế còn trống), sau đó bấm vào nút “Tiếp tục”.
+
+    📄 Bước 4: Kế đến chọn tiếp “Điểm đón – Điểm trả” và chọn “Tiếp tục”.
+
+    📄 Bước 5: Khai báo thông tin liên hệ, thông tin hành khách (trường hợp đặt dịch vụ hộ người khác) và nhấn nút “Đặt chỗ”.
+
+    📄 Ngay tại màn hình này, hệ thống sẽ hiển thị link Chính sách bảo mật thông tin và Quy chế của Vexere để cho khách hàng đọc hiểu, kiểm tra và xác nhận đồng ý bằng cách bấm “Đặt chỗ” trong trường hợp người mua muốn tiếp tục thực hiện việc đặt chỗ.
+
+    📄 Bước 6: Khách hàng lựa chọn phương thức thanh toán (bao gồm thanh toán online bằng thẻ ATM nội địa sử dụng Internet Banking của các Ngân hàng, thẻ Visa/MasterCard, Ví điện tử, tại các cửa hàng tiện lợi, …). Khách hàng nhập thêm Mã giảm giá (nếu có).
+
+    📄 Ngay tại màn hình kiểm tra trước khi thanh toán này, hệ thống hiển thị link Chính sách bảo mật thanh toán để khách hàng đọc hiểu, kiểm tra và xác nhận đồng ý bằng cách bấm “Thanh toán” trong trường hợp khách hàng muốn tiếp tục thực hiện việc đặt chỗ.
+
+    📄 Sau khi khách hàng chọn xong hình thức thanh toán thì hệ thống sẽ tự động chuyển tiếp sang trang thanh toán tương ứng để khách hàng thực hiện thanh toán tiền vé.
+
+    📄 Bước 7: Sau khi thực hiện thanh toán thành công thì khách hàng sẽ nhận được 1 tin nhắn SMS và 1 email thông báo hành trình từ Vexere để khách hàng kiểm tra và lưu giữ thông tin về chuyến đi, thời gian, mã đơn hàng (khách hàng cần phải cung cấp số điện thoại chính xác và giữ điện thoại luôn mở để tài xế/nhân viên nhà xe có thể liên lạc được).
+
+    📄 Bước 8: Tùy vào mô hình hoạt động của hãng xe, khách hàng có thể sử dụng tin nhắn SMS hay email xác nhận của Vexere để lên xe hoặc đổi sang hoá đơn tại hãng xe đã chọn sử dụng dịch vụ (khách hàng yêu cầu Hãng xe cung cấp hoá đơn tại phòng vé Nhà xe nếu có nhu cầu).
+
+    📄 Bước 9:  Khách hàng có thể xem lại thông tin đơn hàng đã đặt như tên hãng xe, ngày, giờ, địa điểm khởi hành, mã đơn hàng, trạng thái thanh toán của đơn hàng và các thông tin liên hệ đến nhà xe hoặc hotline của Vexere trong mục Quản lý đơn hàng. Các thông tin đơn hàng đã đặt được chia thành 03 nhóm bao gồm: Đơn hàng hiện tại, Đơn hàng của chuyến đã đi và các Đơn hàng đã hủy. Ngoài ra, khách hàng có thể quản lý thông tin đơn hàng đã đặt như hủy đơn hàng, thay đổi hình thức thanh toán và nhận tiền hoàn cho đơn hàng đã đặt, hoặc có thể đặt thêm đơn hàng khứ hồi. Trường hợp khách hàng cần hủy đơn hàng đã mua thì bấm vào nút “Hủy đơn hàng” hiển thị ở góc dưới bên phải của thông tin đơn hàng đã đặt, chọn lý do hủy và gửi yêu cầu hủy cho hệ thống xử lý. Sau khi hủy thành công thì khách hàng cũng nhận được 1 tin nhắn SMS và 1 email thông báo hủy hành trình từ Vexere và hệ thống sẽ hoàn tiền về cho khách hàng.
+
+  ### 2. Bảo đảm an toàn giao dịch
+
+    📄 Vexere xây dựng cơ chế bảo đảm an toàn giao dịch như sau:
+
+    📄 Quản lý thông tin của nhà cung cấp dịch vụ vận chuyển hành khách: Khi đã tham gia bán dịch vụ vận chuyển hành khách trên Vexere, các hãng xe phải cung cấp đầy đủ các thông tin liên quan đến các tuyến xe và các dịch vụ kèm theo và phải hoàn toàn chịu trách nhiệm đối với các thông tin này. Các thông tin cụ thể bao gồm: thông tin về nhân thân đối với cá nhân, thông tin về tư cách pháp lý đối với tổ chức, pháp nhân. Các thông tin này sẽ được Vexere đưa vào dữ liệu quản lý. Đồng thời các dịch vụ đi kèm của hãng xe được đăng trên Vexere là các dịch vụ đã được các hãng xe ký Hợp đồng hợp tác với các Nhà cung cấp.
+
+    📄 Kiểm soát giao dịch của Vexere: Tất cả các giao dịch sẽ được Vexere đưa vào nội dung quản lý, thường xuyên cập nhật tình trạng và sẽ có đánh giá sơ bộ về uy tín của nhà cung cấp.
+
+    📄 Kiểm soát thông qua phản hồi của Hành khách: Khách hàng có quyền gửi khiếu nại về hãng xe đến Ban quản lý của Vexere. Khi tiếp nhận những phản hồi này, Vexere sẽ xác nhận lại thông tin. Trường hợp đúng như phản ánh của khách hàng, tùy theo mức độ, Vexere sẽ có những biện pháp xử lý kịp thời.
+
+    📄 Khách hàng tuyệt đối không sử dụng bất kỳ chương trình, công cụ hay hình thức nào khác để can thiệp vào hệ thống hay làm thay đổi cấu trúc dữ liệu. Mọi hình thức phát tán, truyền bá hay cổ vũ cho bất kỳ hoạt động nào nhằm can thiệp, phá hoại hay xâm hại hệ thống của Vexere đều không được cho phép.
+
+    📄 Mọi thông tin giao dịch được bảo mật, trừ trường hợp cung cấp cho cơ quan có thẩm quyền khi được yêu cầu.
+
+  ### 3. Khuyến mãi và Giảm Giá
+
+    📄 Chỉ được áp dụng tối đa 01 chương trình giảm giá/khuyến mãi hoặc 01 mã giảm giá/khuyến mãi cho một lần thanh toán đặt chỗ;
+
+    📄 Bất kỳ khuyến mãi nào được đưa ra bởi Vexere và/hoặc các đối tác của Vexere có thể được thay đổi mà không cần thông báo trước;
+
+    📄 Mỗi khuyến mãi có thể có các điều khoản sử dụng riêng, hành khách có trách nhiệm tham khảo trang cung cấp khuyến mãi.
+
+  ### 4. Xử lý khiếu nại
+
+    📄 Khi có khiếu nại, hành khách cần thông báo trong thời gian 7 ngày kể từ ngày khởi hành.
+
+    📄 Khiếu nại về hãng xe có thể gửi đến Ban quản lý Vexere theo hướng dẫn chi tiết đăng ở mục Chính sách và quy trình giải quyết tranh chấp, khiếu nại. Khi tiếp nhận những phản hồi này, Vexere sẽ xác nhận lại thông tin, trường hợp đúng như phản ánh, tùy theo mức độ sẽ có những biện pháp xử lý kịp thời.
+
+    📄 Khách hàng cần phải thường xuyên đọc và tuân theo các Chính sách và Quy định đang được đăng trên Sàn giao dịch thương mại điện tử Vexere để có thể hiểu và thực hiện được các Chính sách và Quy định tại thời điểm đó.
+
+  ### 5. Quyền của Vexere
+
+    📄 Có quyền kiểm tra, cập nhật, chỉnh sửa các thông tin liên quan đến các hãng xe, tuyến xe và các thông tin khác khi nhận được thông tin từ hãng xe hoặc phát hiện ra những thông tin mới có thể làm ảnh hưởng tới khách hàng cũng như uy tín của Vexere;
+
+    📄 Từ chối, tạm ngừng hoặc chấm dứt cung cấp thông tin về hãng xe, các tuyến xe và các thông tin khác có liên quan trong trường hợp có cơ sở chứng minh các hãng xe cung cấp thông tin cho Vexere không chính xác, không đầy đủ, vi phạm pháp luật, đạo đức, thuần phong mỹ tục Việt Nam;
+
+    📄 Giữ bản quyền sử dụng dịch vụ và các nội dung trên website Vexere theo quy định pháp luật về bảo hộ sở hữu trí tuệ tại Việt Nam cũng như tất cả các biểu tượng, logo, nội dung theo các ngôn ngữ khác nhau đều thuộc quyền sở hữu của Vexere. Nghiêm cấm mọi hành vi sao chép, sử dụng và phổ biến bất hợp pháp các quyền sở hữu trên.
+
+    📄 Yêu cầu Hãng xe và/hoặc người cung cấp dịch vụ thuộc danh mục hàng hóa, dịch vụ kinh doanh có điều kiện trên website của mình phải cung cấp Giấy chứng nhận đủ điều kiện kinh doanh đối với hàng hóa, dịch vụ đó (trong trường hợp pháp luật quy định phải có Giấy chứng nhận đủ điều kiện kinh doanh).
+
+    📄 Thông tin về thương nhân, tổ chức
+
+    📄 Tên thương nhân, tổ chức: Công ty TNHH Thương Mại Dịch Vụ Vexere
+
+    📄 Tên giao dịch (nếu có): VEXERE
+
+    📄 Tên và chức danh người đại diện thương nhân/tổ chức: Đào Việt Thắng
+
+    📄 Địa chỉ: 8C Chữ Đồng Tử, Phường 7, Quận Tân Bình, TP. Hồ Chí Minh
+
+    📄 Văn phòng giao dịch: Lầu 2, tòa nhà H3 Circo Hoàng Diệu, 384 Hoàng Diệu, Phường 6, Quận 4, Tp. Hồ Chí Minh, Việt Nam
+
+    📄 Điện thoại: 1900 88 86 84
+
+    📄 Email: bqt@vexere.com
+
+    📄 Số giấy chứng nhận đăng ký kinh doanh: 0315133726
+
+    📄 Ngày cấp: 27/06/2018
+
+    📄 Nơi cấp: Sở Kế Hoạch và Đầu Tư TP. HCM
+
+  ### 6. Quyền của hãng xe
+
+    📄 Được khách hàng biết đến nhiều hơn trên các kênh mở bán trực tuyến thông qua việc hợp tác kinh doanh với sàn giao dịch thương mại điện tử Vexere;
+
+    📄 Nhằm bảo vệ quyền lợi hãng xe, Ban quản lý Vexere cung cấp cho các hãng xe những thông tin quan trọng cần biết trước khi Vexere tiến hành bán dịch vụ của hãng xe;
+
+    📄 Được biết những thông tin phản hồi của khách hàng về chất lượng dịch vụ mà hãng xe cung cấp cho khách hàng khi có sự đồng ý của Ban quản lý Vexere.
+
+  ### 7. Quyền của hành khách đặt dịch vụ tại Vexere
+
+    📄 Được hỗ trợ đặt dịch vụ trực tuyến và tiết kiệm thời gian xếp hàng tại các văn phòng nhà xe hoặc bến xe. Việc đặt mua dịch vụ trên Sàn Vexere diễn ra nhanh chóng và thuận tiện, khi khách chọn và xác nhận đặt mua thì hệ thống sẽ hiển thị cho hành khách thông tin đơn hàng bao gồm mã xác nhận thanh toán qua tin nhắn SMS và/hoặc email do hành khách cung cấp khi đặt chỗ;
+
+    📄 Trường hợp không nhận được tin nhắn SMS/email xác nhận hoặc hủy đơn hàng vì bất cứ lý do nào, hành khách có thể liên hệ chúng tôi để được hỗ trợ gửi lại. Thông tin gửi qua SMS/email có thể không được gửi hoặc đến chậm vì nhiều lý do nằm ngoài kiểm soát của Vexere (như nhà mạng điện thoại, đường truyền internet);
+
+    📄 Được quyền khiếu nại, yêu cầu bồi thường/bồi hoàn liên quan đến Dịch vụ của Hãng xe cung cấp không đảm bảo chất lượng như các thông tin đã công bố; khi đó Vexere luôn đảm bảo làm trọng tài yêu cầu bồi thường cho Khách hàng từ Hãng xe hoặc người cung cấp sản phẩm, dịch vụ nhằm đảm bảo quyền lợi hợp pháp cho người tiêu dùng trong các trường hợp phát sinh mâu thuẫn giữa các bên gây ảnh hưởng đến lợi ích của người tiêu dùng.
+
+    📄 Trong trường hợp không có chỗ cho hành khách mặc dù hành khách đã được xác nhận chỗ, vì bất cứ lý do nào (lịch khởi hành xe thay đổi, hủy chuyến, sự kiện bất khả kháng, vấn đề vận hành, …), hành khách được quyền lựa chọn 1 trong các lựa chọn sau:
+
+    • Vexere sắp xếp vận chuyển hành khách trên chuyến xe gần nhất còn chỗ mà không thu thêm phí;
+
+    • Hoàn lại tiền dịch vụ cho hành khách đối với chuyến xe hành khách bị từ chối vận chuyển.
+
+    📄 Có quyền đóng góp ý kiến cho Sàn giao dịch thương mại điện tử trong quá trình hoạt động. Các kiến nghị được gửi trực tiếp bằng thư, fax, email hoặc gọi điện cho Sàn giao dịch thương mại điện tử.
+
+    📄 Thông tin hỗ trợ hành khách:
+
+    📄 Ban quản lý Sàn thương mại điện tử Vexere: Công ty TNHH Thương Mại Dịch Vụ Vexere.
+
+    📄 Địa chỉ: Lầu 2, tòa nhà H3 Circo Hoàng Diệu, 384 Hoàng Diệu, Phường 6, Quận 4, Tp. Hồ Chí Minh, Việt Nam
+
+    📄 Điện thoại hotline: 1900 88 86 84
+
+    📄 Email: cs@vexere.com
+
+  ### 8. Trách nhiệm của Vexere, hãng xe và khách hàng
+
+    📄 Trách nhiệm của Vexere bao gồm:
+
+    📄 Xây dựng và công bố công khai trên website quy chế hoạt động của sàn giao dịch thương mại điện tử, theo dõi và bảo đảm việc thực hiện quy chế đó trên sàn giao dịch thương mại điện tử Vexere;
+
+    📄 Lưu trữ thông tin đăng ký của các hãng xe tham gia sàn giao dịch thương mại điện tử và thường xuyên cập nhật những thông tin thay đổi, bổ sung có liên quan;
+
+    📄 Hỗ trợ đăng tải và cập nhật các thông tin do hãng xe cung cấp để bán dịch vụ hoặc cung ứng dịch vụ khách hàng thông qua trang Vexere; có cơ chế kiểm tra, giám sát để đảm bảo việc cung cấp thông tin của người bán trên sàn giao dịch thương mại điện tử được thực hiện chính xác, đầy đủ;
+
+    📄 Thiết lập cơ chế cung cấp thông tin và đặt dịch vụ trên Vexere cho phép khách hàng thực hiện đúng quy trình đặt/huỷ đơn hàng trực tuyến qua website;
+
+    📄 Áp dụng các biện pháp cần thiết để đảm bảo an toàn thông tin liên quan đến bí mật kinh doanh của hãng xe và thông tin cá nhân của người dùng;
+
+    📄 Tích cực hỗ trợ cơ quan quản lý nhà nước điều tra các hành vi kinh doanh vi phạm pháp luật; cung cấp các tài liệu như thông tin đăng ký, lịch sử dữ liệu giao dịch của đối tượng có hành vi vi phạm pháp luật trên sàn giao dịch thương mại điện tử;
+
+    📄 Có biện pháp xử lý kịp thời khi phát hiện hoặc nhận được phản ánh về hành vi kinh doanh vi phạm pháp luật trên sàn Vexere; khi khách hàng đặt dịch vụ và có phát sinh mâu thuẫn với hãng xe hoặc bị tổn hại lợi ích hợp pháp thì Vexere sẽ cung cấp cho khách hàng thông tin về hãng xe, tích cực hỗ trợ khách hàng bảo vệ quyền và lợi ích hợp pháp của họ;
+
+    📄 Cung cấp thông tin hành khách đặt chỗ: tên, số điện thoại, ngày đi để hãng xe hoàn thành thủ tục xác nhận đặt chỗ;
+
+    📄 Thu tiền đúng biểu giá tuyến đường do Hãng xe cung cấp theo Hợp đồng đại lý;
+
+    📄 Thông báo và hướng dẫn khách hàng đến địa điểm xe xuất phát trước 30 phút giờ xe khởi hành hoặc trước 30 phút giờ xe trung chuyển khách;
+
+    📄 Duy trì hoạt động bình thường của Vexere và khắc phục các sự cố xảy ra ảnh hưởng tới hoạt động của Vexere. Trường hợp xảy ra các sự kiện bất khả kháng, bao gồm nhưng không giới hạn bởi thiên tai, hỏa hoạn, biến động xã hội, các quyết định của cơ quan chức năng thì Vexere không phải chịu trách nhiệm liên đới.
+
+    📄 Công bố công khai trên sàn Vexere cơ chế giải quyết khiếu nại, tranh chấp giữa các bên liên quan đến giao dịch được thực hiện qua Vexere.
+
+    📄 Công bố công khai trên sàn Vexere chính sách bảo vệ thông tin cá nhân của người sử dụng.
+
+    📄 Mọi thông tin giao dịch được bảo mật và không được chuyển giao cho bên thứ ba nào khác, trừ trường hợp buộc phải cung cấp khi Cơ quan pháp luật yêu cầu.
+
+    📄 Trách nhiệm của Vexere không bao gồm:
+
+    📄 Bất kỳ dữ liệu không chính xác nào được cung cấp bởi khách hàng khi đặt chỗ;
+
+    📄 Bất kỳ sự chậm trễ nào về giờ giấc của hành khách;
+
+    📄 Bất kỳ hành vi sai trái nào của hành khách;
+
+    📄 Tổn thất hay thiệt hại về hành lý của hành khách (thuộc về trách nhiệm của Hãng xe vận chuyển);
+
+    📄 Thông tin do hành khách cung cấp không thể liên lạc được;
+
+    📄 Hành khách không chờ đợi ở đúng điểm khởi hành;
+
+    📄 Bất kỳ thay đổi nào về số ghế do hãng xe thực hiện mà không thông qua Vexere;
+
+    📄 Trách nhiệm của các Hãng xe:
+
+    📄 Phải chịu trách nhiệm toàn bộ các vấn đề thuộc về bản quyền nội dung, hình ảnh, thông tin cung cấp và phải đảm bảo cung cấp thông tin đầy đủ theo quy định từ điều 30 đến điều 34 của Nghị định số 52/2013/NĐ-CP và chịu trách nhiệm về tính chính xác, trung thực của thông tin về hàng hóa, dịch vụ được công bố trên Vexere.
+
+    📄 Phải tuân thủ quy định của pháp luật về thanh toán, quảng cáo, khuyến mại, bảo vệ quyền sở hữu trí tuệ, bảo vệ quyền lợi người tiêu dùng và các quy định của pháp luật có liên quan khác khi bán hàng hóa hoặc cung ứng dịch vụ trên sàn giao dịch thương mại điện tử và thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật;
+
+    📄 Bắt buộc phải tuân thủ theo Quy chế hoạt động của Sàn Vexere và có trách nhiệm cung cấp các dịch vụ của mình đã được đăng lên trên Vexere khi khách hàng đã đặt mua trực tuyến. Trong trường hợp Hãng xe không cung cấp dịch vụ hoặc không cung cấp dịch vụ được như nội dung đăng tin cho khách hàng mà không kịp thời thông báo lý do cho Ban quản lý Vexere thì Vexere sẽ chủ động liên hệ với Hãng xe để giải quyết đồng thời yêu cầu Hãng xe bồi thường cho Khách hàng và Vexere những thiệt hại do Hãng xe gây ra;
+
+    📄 Không phân biệt đối xử với khách hàng của Vexere, không thu thêm phí và đảm bảo cung cấp dịch vụ theo như cam kết cho khách hàng Vexere;
+
+    📄 Phải có trách nhiệm bồi thường, bồi hoàn, đảm bảo cho Vexere đối với các chi phí phát sinh liên quan đến các vấn đề sau: (a) bất kỳ khiếu nại nào liên quan đến một vi phạm pháp luật của Hãng xe; (b) bất kỳ khiếu nại nào của khách hàng Vexere liên quan đến dịch vụ do Hãng xe cung cấp, bao gồm nhưng không giới hạn bởi: khiếu nại về quảng cáo sai sự thật, khiếm khuyết dịch vụ, tai nạn, phân biệt đối xử khách hàng, không đón khách hàng.
+
+    📄 Không được hành động gây mất uy tín của Sàn giao dịch thương mại điện tử Vexere dưới mọi hình thức tuyên truyền, phổ biến những thông tin không có lợi cho uy tín của Vexere.
+
+    📄 Trách nhiệm của khách hàng:
+
+    📄 Có trách nhiệm cung cấp các thông tin cần thiết liên quan đến bản thân để đảm bảo hoàn thành đơn hàng bao gồm: tên giao dịch, địa chỉ, phương thức thanh toán lựa chọn, điện thoại liên hệ.
+
+    📄 Có mặt ít nhất 30 phút (đối với ngày lễ tết cần ra trước 60 phút) trước giờ khởi hành dự kiến, hoặc sớm hơn tùy theo quy định của Hãng xe;
+
+    📄 Tại thời điểm lên xe, hành khách sẽ được yêu cầu cung cấp các thông tin sau đây, nếu không thì hành khách có thể bị từ chối cho lên xe:
+
+    • Tin nhắn SMS hoặc email có thông tin về mã xác nhận thanh toán (hầu hết hãng xe đều chấp nhận hình thức này);
+
+    • Một số hãng xe không chấp nhận các mã xác nhận thanh toán (thông tin chi tiết của các hãng xe này có trong phần đặt chỗ của Vexere), hành khách vui lòng in thông tin đơn hàng đầy đủ ra giấy và mang theo;
+
+    • Chứng minh nhân dân (hoặc các giấy tờ tùy thân có ảnh như hộ chiếu, giấy phép lái xe…)
+
+    📄 Khi đặt chỗ tại Vexere, hành khách đã đồng ý cho phép Vexere gọi điện, email, gửi tin SMS hoặc gửi thông báo để cung cấp thông tin hoặc lấy thông tin liên quan đến việc đặt chỗ của hành khách;
+
+    📄 Khi hành khách đặt giữ chỗ tại Vexere, Vexere sẽ cố gắng đáp ứng vị trí chỗ theo yêu cầu của hành khách. Tuy nhiên, Vexere không đảm bảo chắc chắn bất cứ vị trí nào trên xe. Vexere bảo lưu quyền sắp xếp lại vị trí chỗ trên xe của hành khách vì lý do vấn đề về vận hành, an ninh, an toàn, sức khỏe, hay theo yêu cầu của cơ quan có thẩm quyền;
+
+    📄 Khách hàng cần phải thường xuyên đọc và tuân theo các Chính sách và Quy định của Quy chế hoạt động đang được đăng trên Vexere để có thể hiểu và thực hiện được các Chính sách và Quy định tại thời điểm đó.
+
+  ### 9. Quản lý thông tin xấu
+
+    #### Quy trình đăng tin giao dịch của Người bán (Hãng xe) tuân thủ theo hợp đồng/thỏa thuận giữa Hãng xe và Vexere và các quy chế/quy định áp dụng. Theo đó, sau khi 2 bên ký kết Hợp đồng với nhau thì Hãng xe hoặc Vexere sẽ chuẩn bị thông tin gồm hình ảnh/nội dung của Dịch vụ do Hãng xe cung cấp và tiến hành đăng tải trên Vexere theo quy định tại Hợp đồng và Quy chế này;
+
+      📄 Các thông tin của Hãng xe phải được hiển thị đầy đủ, chính xác trên Vexere, đặc biệt thông tin về giá cả, chất lượng dịch vụ. Mọi thông tin được sửa đổi, bổ sung, thay thế phải được thông báo kịp thời cho Ban quản lý Vexere để được cập nhật trên Sàn;
+
+      📄 Hãng xe chịu hoàn toàn trách nhiệm về việc giải quyết khiếu nại, tranh chấp của Người dùng liên quan đến Dịch vụ do Hãng xe cung cấp trên Vexere;
+
+      📄 Người dùng không được lợi dụng dịch vụ của Vexere vào những mục đích bất hợp pháp, không hợp lý, lừa đảo, đe doạ, thăm dò thông tin bất hợp pháp, phá hoại, tạo ra và phát tán virus gây hư hại tới hệ thống, cấu hình, truyền tải thông tin của Vexere. Trong trường hợp vi phạm thì người truy cập đó phải chịu trách nhiệm về các hành vi của mình trước pháp luật;
+
+      📄 Người dùng không được thay đổi, chỉnh sửa, gán ghép, copy, truyền bá, phân phối, cung cấp và tạo những công cụ tương tự của dịch vụ do Vexere cung cấp cho một bên thứ ba nếu không được sự đồng ý của Vexere trong bản Quy chế này;
+
+      📄 Người dùng không được tuyên truyền, phổ biến những thông tin không có lợi cho uy tín của Vexere cũng như các hãng xe dưới mọi hình thức như cung cấp các thông tin xấu, thiếu tính khách quan, trung thực về Vexere và các hãng xe.
+
+  ### 10. Chính sách hủy
+
+    📄 Để hủy đơn hàng, hành khách có thể:
+
+    📄 Dùng số điện thoại hay email đã sử dụng để đặt chỗ và liên hệ cs@vexere.com hoặc gọi đến số điện thoại 1900 88 86 84, cung cấp thông tin mã đơn hàng cùng với các thông tin khác theo hướng dẫn của tổng đài viên Vexere, hoặc khách hàng có thể tự thao tác hủy đơn hàng trong phần Quản lý đơn hàng đã đặt theo hướng dẫn tại Bước 9 Khoản 1 – Cách thức đặt chỗ và thanh toán trên Vexere ở mục III Quy trình giao dịch.
+
+    📄 Hạn chót cho việc hủy đơn hàng phụ thuộc vào thời điểm xe bắt đầu khởi hành ở đầu tuyến đường và không phụ thuộc vào thời gian hành khách lên xe. Ví dụ: Nếu xe bắt đầu khởi hành từ lúc 7:00 giờ và thời điểm hành khách lên xe là 12:00 giờ, hạn chót hủy đơn hàng được tính từ 7:00, không phải 12:00 giờ.
+
+    📄 Chính sách hủy đơn hàng đối với đơn hàng đặt thông qua Vexere
+
+    📄 Chính sách hủy đơn hàng thay đổi theo từng hãng xe. Để biết chính sách hủy đơn hàng, vui lòng xem mục “Chính sách hủy đơn hàng” khi bạn chọn hãng xe trên Vexere. Nếu đơn hàng đã được thanh toán, chính sách hủy đơn hàng sẽ được gửi cùng email xác nhận. Để tìm hiểu thêm thông tin về chính sách hủy đơn hàng, vui lòng liên hệ bộ phận CSKH của Vexere qua email hoặc tổng đài để được giải đáp.
+
+    📄 Chính sách huỷ đơn hàng chưa bao gồm phí chuyển khoản tiền lại cho quý khách.
+
+    📄 Số tiền hoàn lại = Tổng tiền đã thanh toán – Phí hủy – Phí chuyển khoản (nếu có).
+
+    📄 Phí hủy đơn hàng được áp dụng đối với giá đơn hàng gốc, không áp dụng cho giá sau khi đã giảm giá. Chi phí phạt hủy đơn hàng được trích từ tiền đơn hàng đã thanh toán hoặc giảm giá và phần tiền còn lại sẽ được hoàn trả.
+
+    📄 Ví dụ:
+
+    📄 Giá đơn hàng gốc là 200,000 VND.
+
+    📄 Giá đơn hàng sau khi giảm giá là 150,000 VND
+
+    📄 Chi phí phạt hủy được tính trên giá gốc. Chi phí hủy đơn hàng là 10% là 20.000 VND
+
+    📄 → Vậy số tiền hoàn trả sẽ là 150,000 – 20,000 = 130,000 VND.
+
+  ### 11. Chính sách hoàn tiền
+
+    📄 Tiền sẽ được hoàn trả trong các trường hợp hủy đơn hàng được chuyển vào tài khoản ngân hàng, thẻ ghi nợ, thẻ tín dụng, hoặc tài khoản ví mà hành khách sử dụng trong khi đặt chỗ.
+
+    📄 Tất cả các khoản hoàn tiền được xử lý tự động khi huỷ đơn hàng. Ngân hàng của hành khách thông thường sẽ cần vài ngày làm việc để ghi có số tiền này vào tài khoản hay thẻ;
+
+    📄 Trong trường hợp số tiền hoàn trả không được ghi có vào tài khoản của hành khách trong 14 ngày làm việc, hãy gửi email đến lienhe@vexere.com cùng với các chi tiết của đơn hàng. Chúng tôi sẽ cung cấp cho bạn sự hỗ trợ cần thiết để giúp ghi có vào tài khoản hay thẻ của hành khách số tiền được hoàn trả;
+
+    📄 Tiền sẽ không được hoàn lại trong trường hợp hành khách không có mặt tại điểm khởi hành đúng giờ;
+
+    📄 Phí giao dịch hoặc phí giao hoá đơn sẽ không được hoàn trả trong trường hợp khách hàng tự yêu cầu hủy đơn hàng;
+
+    📄 Trong trường hợp hãng xe hủy bỏ một chuyến xe hay dịch vụ, Vexere sẽ cố gắng hỗ trợ hành khách tìm dịch vụ thay thế tùy thuộc vào các lựa chọn sẵn có. Trong trường hợp không có dịch vụ thay thế nào, Vexere sẽ chỉ chịu trách nhiệm đối với hành khách đến mức hoàn trả lại số tiền mà hành khách đã thanh toán đặt chỗ;
+
+    📄 Các tiện ích như TV, điều hòa không khí, nước hoặc bất kỳ dịch vụ khác được đề cập trên Vexere để giúp hành khách có đầy đủ thông tin hơn trước khi quyết định. Nếu có bất kỳ yêu cầu hoàn tiền, khiếu nại nào do thiếu sót các tiện ích này, hành khách cần phải giải quyết trực tiếp với hãng xe.
+
+  ### 12. Quy chế đơn hàng giá đặt cọc
+
+    📄 Giá đặt cọc là khoản tiền cần thanh toán trước để giữ chỗ. Giá chính thức là giá bao gồm phần giá đặt cọc và phụ thu ngày cao điểm . Vào dịp Lễ, Tết hằng năm, khi nhà xe chưa có giá chính thức nhưng nhận đặt giữ chỗ thì Vexere sẽ mở bán với giá đặt cọc. Giá chính thức và hướng dẫn thanh toán phụ thu sẽ được gửi cho hành khách đã đặt cọc qua SMS, email hoặc nhân viên chăm sóc khách hàng của Vexere sẽ thông báo trực tiếp với hành khách qua điện thoại ngay khi nhà xe có giá chính thức và cập nhật thông tin cho Vexere.
+
+    📄 Tuỳ thuộc vào từng nhà xe, quý khách có thể thanh toán phụ thu qua các hình thức sau:
+
+    • Thanh toán phụ thu online qua Vexere.com bằng thẻ quốc tế (Visa, Master, JCB), thẻ ATM nội địa, qua các ứng dụng MoMo/ZaloPay, chuyển khoản ngân hàng. Giá chính thức và hướng dẫn thanh toán phụ thu sẽ được gửi cho quý khách qua SMS, email hoặc nhân viên chăm sóc khách hàng của Vexere sẽ thông báo trực tiếp với quý khách qua điện thoại.
+
+    • Đối với những nhà xe có hỗ trợ thu phụ thu, quý khách có thể đến văn phòng nhà xe xuất trình tin nhắn/email có thông tin đơn hàng đặt cọc để thanh toán phụ thu trực tiếp với nhà xe.
+
+    📄 Thời hạn thanh toán phụ thu sẽ phụ thuộc vào chính sách của từng nhà xe. Sau khi nhận được thông báo về giá chính thức, hành khách cần thanh toán đúng hạn. Sau thời hạn thanh toán, đơn hàng đặt cọc chưa thanh toán phần phụ thu có thể sẽ không được nhà xe cung cấp dịch vụ và không hoàn lại tiền cọc mà hành khách đã thanh toán trước đó
+
+    📄 Ví dụ:
+
+    📄 Ngày 20-11-2019 quý khách thực hiện đặt dịch vụ xe khách dịp tết dương lịch Sài Gòn – Nha Trang của nhà xe Liên Hưng ngày 31-12-2019 chuyến 22h với mức giá cọc 200.000 đồng, chính sách của nhà xe là không huỷ đổi trả đối với đơn hàng đặt cọc.
+
+    📄 Ngày 20-12-2019 Vexere nhận được thông tin nhà xe có giá chính thức tuyến Sài Gòn đi Nha Trang ngày 31-12-2019 chuyến 22h là 320.000 đồng. Thời hạn thanh toán phụ thu là trước 24h trước giờ khởi hành thông qua Vexere.
+
+    📄 Trước 24h ngày 30-12-2019 hành khách cần thực hiện thanh toán thành công khoản phụ thu thêm: 320.000 – 200.000 = 120.000 đồng
+
+    📄 Sau 24h ngày 30-12-2019, hành khách chưa thực hiện thanh toán khoản phụ thu thì đơn hàng đặt cọc của hành khách sẽ bị huỷ và không được hoàn trả tiền cọc
+
+  ### 13. Chính sách bảo mật
+
+    📄 Khách hàng không cần phải tạo tài khoản thành viên để giao dịch và/hoặc đặt dịch vụ trực tuyến tại Sàn giao dịch thương mại điện tử Vexere. Do đó, Vexere chỉ thu thập thông tin cá nhân của người dùng trong trường hợp khách đặt chỗ trực tuyến và hệ thống sẽ hiển thị link Chính sách bảo mật thông tin và Quy chế của Vexere tại thời điểm thu thập để người dùng đọc và xác nhận.
+
+    📄 Nếu khách hàng không đồng ý cho phép xử lý dữ liệu cá nhân như mô tả trong Chính sách bảo mật, quý khách vui lòng không sử dụng các dịch vụ của chúng tôi hay truy cập Sàn giao dịch thương mại điện tử của chúng tôi. Nếu chúng tôi thay đổi Chính sách bảo mật của mình, chúng tôi sẽ đăng những thay đổi đó trên Sàn giao dịch thương mại điện tử. Tùy theo tình hình thực tế, chúng tôi có quyền sửa đổi, bổ sung Chính sách bảo mật này vào bất kỳ lúc nào mà không cần thông báo trước.
+
+  ### 14. Giới hạn trách nhiệm trong trường hợp phát sinh lỗi kỹ thuật trên sàn giao dịch
+
+    📄 Khi thực hiện các giao dịch trên Sàn, bắt buộc các khách hàng phải thực hiện đúng theo các quy trình hướng dẫn.
+
+    📄 Ban quản lý Vexere cam kết cung cấp chất lượng dịch vụ tốt nhất cho khách hàng tham gia giao dịch. Trường hợp phát sinh lỗi kỹ thuật, lỗi phần mềm hoặc các lỗi khách quan khác dẫn đến khách hàng không thể tham gia giao dịch được thì các khách hàng thông báo cho Ban quản lý Vexere qua địa chỉ email: cs@vexere.com hoặc tổng đài hỗ trợ: 1900 88 86 84. Vexere sẽ khắc phục lỗi trong thời gian sớm nhất, tạo điều kiện cho các khách hàng tham gia Vexere.
+
+    📄 Ban quản lý Vexere sẽ không chịu trách nhiệm giải quyết trong trường hợp thông báo của các khách hàng không đến được Ban quản lý, phát sinh từ lỗi kỹ thuật, lỗi đường truyền, phần mềm hoặc các lỗi khác không do Ban quản lý gây ra.
+
+  ### 15. Chính sách giới hạn giữ chỗ khi đặt vé tàu thông qua hệ thống Vexere
+
+    📄 Giới hạn số lượng ghế được giữ trên mỗi lần đặt chỗ:
+
+    • Đối với vé một chiều: Khách hàng có thể giữ tối đa 10 ghế.
+
+    • Đối với vé khứ hồi: Khách hàng có thể giữ tối đa 20 ghế (10 ghế chiều đi và 10 ghế chiều về).
+
+    • Nếu vượt quá số lượng ghế tối đa, hệ thống sẽ từ chối giữ thêm ghế mới.
+
+    📄 Giới hạn thời gian giữ chỗ:
+
+    • Đối với vé một chiều: Mỗi ghế được giữ tối đa trong 10 phút.
+
+    • Đối với vé khứ hồi: Mỗi ghế chiều đi được giữ tối đa 20 phút, ghế chiều về được giữ tối đa 10 phút.
+
+    • Khi hết thời gian giữ chỗ mà khách hàng chưa thanh toán, hệ thống sẽ tự động hủy chỗ để phục vụ khách hàng khác.
+
+    📄 Giới hạn trên toàn hệ thống:
+
+    • Mỗi khách hàng chỉ được phép giữ tối đa 20 ghế đồng thời trong vòng 20 phút.
+
+    • Nếu vượt quá giới hạn, hệ thống sẽ tạm ngừng chức năng giữ chỗ của tài khoản trong 1 giờ.
+
+  ### 16. Chính sách xử lý vi phạm theo yêu cầu điều tra từ Đường Sắt Việt Nam
+
+    📄 Trong trường hợp Đường Sắt Việt Nam (ĐSVN) yêu cầu điều tra các hành vi có dấu hiệu vi phạm làm tổn hại đến lợi ích của các bên một cách bất hợp pháp, Vexere áp dụng các biện pháp sau:
+
+    📄 Tạm khóa tài khoản:
+
+    • Tài khoản sẽ bị tạm khóa trong 24 giờ và khách hàng sẽ nhận được thông báo cụ thể lý do khóa tài khoản.
+
+    • Trong thời gian tạm khóa, khách hàng không thể thực hiện các hành động giữ chỗ hoặc đặt vé mới vé tàu.
+
+    📄 Xác minh vi phạm:
+
+    • Nếu hệ thống không phát hiện vi phạm rõ ràng, tài khoản sẽ được mở lại và thông báo lý do cụ thể.
+
+    • Nếu phát hiện vi phạm:
+
+Tài khoản (ứng với số điện thoại) sẽ tiếp tục bị khóa và chỉ được mở lại sau khi thực hiện các bước xác minh danh tính hợp lệ.
+Trong trường hợp nghiêm trọng, tài khoản có thể bị khóa lâu dài hoặc hạn chế quyền truy cập vào các dịch vụ đặt vé.
+
+    • Tài khoản (ứng với số điện thoại) sẽ tiếp tục bị khóa và chỉ được mở lại sau khi thực hiện các bước xác minh danh tính hợp lệ.
+
+    • Trong trường hợp nghiêm trọng, tài khoản có thể bị khóa lâu dài hoặc hạn chế quyền truy cập vào các dịch vụ đặt vé.
+
+  ### 17. Giao dịch không thành công
+
+    📄 Một giao dịch thanh toán online có thể không được thực hiện thành công vì nhiều lý do, và tài khoản hay thẻ của hành khách có thể bị ghi nợ mà không có một đơn hàng tương ứng được tạo ra. Nếu số tiền bị khấu trừ từ tài khoản hay thẻ của bạn, hãy liên hệ với Tổng đài chăm sóc khách hàng của Vexere hoặc liên hệ trực tiếp với Ngân hàng hoặc Nhà cung cấp dịch vụ ví điện tử để tái xác nhận giao dịch không thành công trước khi tiến hành một giao dịch hay đặt chỗ mới.
+
+    📄 Những giao dịch trong trường hợp này được hoàn trả lại cho khách hàng theo chính sách hoàn tiền quy định trong Quy chế của Vexere.
+
+  ### 18. Cơ chế giải quyết tranh chấp, khiếu nại
+
+    📄 Tranh chấp về đặt chỗ trực tuyến giữa khách hàng và nhà cung cấp dịch vụ vận chuyển hành khách.
+
+    📄 Nếu có tranh chấp xảy ra trong việc xác nhận đơn hàng đặt mua trực tuyến giữa khách hàng và thương nhân để nhận dịch vụ, Vexere sẽ cử đại điện tham gia vào quá trình giải quyết tranh chấp này. Bằng cách cung cấp những thông tin, chứng từ hoặc các tài liệu được lưu trữ có liên quan về việc khách hàng có hay không việc đặt chỗ của Hãng xe thông qua Vexere để giải quyết tranh chấp.
+
+    📄 Nếu có cơ sở xác nhận đơn hàng xe khách hàng đang giữ là do Vexere bán và đúng với tuyến đường, thời gian, địa điểm và các thông tin khác có liên quan thì thương nhân cung cấp dịch vụ không có quyền bác bỏ và phải cung cấp dịch vụ cho khách hành như đã cam kết. Nếu thương nhân không cung cấp dịch vụ cho khách hàng thì Vexere sẽ tham gia giải quyết bằng biện pháp thương lượng với thương nhân cung cấp dịch vụ để cung cấp dịch vụ cho khách hàng. Nếu các bên không đi đến được một thống nhất chung và khách hàng vẫn không được cung cấp dịch vụ thì Vexere cam kết sẽ hoàn lại số tiền bằng với giá trị tiền mà khách hàng đã phải chi trả. Thương nhân phải chịu trách nhiệm với Vexere về việc không cung cấp dịch vụ như đã cam kết giữa các bên.
+
+    📄 Nếu có thiệt hại xảy ra cho khách hàng do việc không cung cấp dịch vụ của thương nhân cung cấp dịch vụ vận tải hành khách thì các bên bao gồm khách hàng, Vexere, và thương nhân cung cấp dịch vụ vận tải hành khách sẽ giải quyết bằng cách thỏa thuận, trên tinh thần hợp tác, bình đẳng và đảm bảo những quyền lợi chính đáng của khách hàng. Nếu không đi đến được thống nhất chung thì sẽ đưa vụ việc ra cơ quan có thẩm quyền giải quyết.
+
+    📄 Nếu thương nhân có chứng cứ chứng minh đơn hàng đang tranh chấp là không đúng, không phù hợp thì có thể từ chối cung cấp dịch vụ cho khách hàng và Vexere có trách nhiệm giải quyết vấn đề về tính xác thực của đơn hàng xe đang tranh chấp với khách hàng.
+
+    📄 Các bên phải thực hiện đúng trách nhiệm, quyền và nghĩa vụ của mình trong quá trình giải quyết tranh chấp. Nếu có thiệt hại xảy ra, các bên sẽ thỏa thuận cùng nhau trên tinh thần hợp tác để tìm ra biện pháp giải quyết hợp lý nhất. Nếu không đi đến được một sự thống nhất chung về ý chí trong quá trình giải quyết tranh chấp, thì sẽ đưa vụ việc tranh chấp ra cơ quan có thẩm quyền giải quyết.
+
+    📄 Tranh chấp về chất lượng dịch vụ
+
+    📄 Đối với trường hợp có tranh chấp xảy ra trong hoặc sau khi thương nhân cung cấp dịch vụ cho khách hàng. Khách hàng vui lòng đọc Chính sách và quy trình giải quyết tranh chấp, khiếu nại để được hướng dẫn quy trình cụ thể và gửi khiếu nại trực tiếp đến bộ phận hỗ trợ khách hàng của Vexere. Khi nhận được khiếu nại của hành khách, bộ phận hỗ trợ khách hàng của Vexere sẽ chuyển ngay khiếu nại đó đến Hãng xe bằng các phương thức nhanh nhất và yêu cầu giải quyết.
+
+    📄 Thương nhân cung cấp dịch vụ vận tải hành khách khi nhận được khiếu nại từ khách hàng hoặc phản hồi từ Vexere về chất lượng dịch vụ và các tranh chấp khác có liên quan trong hoặc sau quá trình cung cấp dịch vụ, phải nhanh chóng xử lý, giải quyết và sử dụng các biện pháp cấp thiết nếu thấy cần thiết để đảm bảo thiệt hại tối thiểu xảy ra đối với khách hàng.
+
+    📄 Đối với khách hàng sử dụng dịch vụ trên Vexere
+
+    📄 Khách hàng cần phải thường xuyên đọc và tuân theo các Chính sách và Quy định đang được đăng trên Vexere để có thể hiểu và thực hiện được các Chính sách và Quy định tại thời điểm đó.
+
+    📄 Vexere sẽ thực hiện mọi nỗ lực hợp lý để giải quyết các khiếu nại của khách hàng sử dụng dịch vụ trên Sàn Vexere. Nếu những nỗ lực đó thất bại, khách hàng phải đồng ý rằng bất kỳ khiếu nại, tranh chấp của khách hàng đối với Vexere hoặc thương nhân đều được giải quyết theo đúng quy định của pháp luật Việt Nam và tổng trách nhiệm của Vexere đối với mỗi khách hàng không vượt quá số tiền mà Vexere thu được từ khách hàng đó đối với vụ việc có liên quan đến khiếu nại của khách hàng.
+
+    📄 Tranh chấp phát sinh trong quá trình giao dịch
+
+    📄 Trong quá trình đặt dịch vụ xe khách trên Vexere, nếu có bất kỳ sự cố nào trong quá trình đặt chỗ, xác nhận thông tin hoặc thanh toán. Khách hàng sẽ liên hệ trực tiếp tới bộ phận hỗ trợ khách hàng của Vexere để được giải quyết một cách nhanh chóng và kịp thời.
+
+    📄 Trường hợp phát sinh lỗi kỹ thuật, lỗi phần mềm hoặc các lỗi khách quan khác dẫn đến khách hàng không thể tham gia giao dịch được thì các khách hàng thông báo cho Vexere qua địa chỉ email: cs@vexere.com hoặc tổng đài hỗ trợ: 1900 88 86 84. Chúng tôi sẽ khắc phục lỗi trong thời gian sớm nhất, tạo điều kiện cho các khách hàng tham gia Vexere.
+
+    📄 Các tranh chấp khác trong quá trình giao dịch
+
+    📄 Khi có bất kỳ tranh chấp nào khác phát sinh trong quá trình giao dịch trên Vexere, Vexere và các bên có liên quan như thương nhân cung cấp dịch vụ vận tải hành khách, Ngân hàng cung cấp dịch vụ thanh toán và Khách hàng sử dụng dịch vụ sẽ cử đại diện tham gia vào quá trình giải quyết.
+
+  ### 19. Điều khoản áp dụng
+
+    📄 Mọi tranh chấp phát sinh trong quá trình giao dịch trên Sàn giao dịch thương mại điện tử Vexere (bao gồm website Vexere.com và ứng dụng di động Vexere) giữa hãng xe và hành khách sẽ được các bên thương lượng giải quyết, trong trường hợp không tự giải quyết được thì một trong hai bên có quyền đưa ra Cơ quan có thẩm quyền giải quyết theo quy định pháp luật.
+
+    📄 Quy chế của Vexere có hiệu lực thi hành kể từ ngày đăng tải trên website http://vexere.com
+
+    📄 Nội dung văn bản này có thể được sửa đổi, bổ sung và thay thế theo thời gian nhằm đảm bảo mục đích và hoạt động của Vexere. Các nội dung sửa đổi, thay thế sẽ có hiệu lực trong vòng 03 (ba) ngày từ ngày thông báo. Việc khách hàng tiếp tục sử dụng dịch vụ sau khi các nội dung sửa đổi, bổ sung và thay thế được công bố và thực thi đồng nghĩa với việc các khách hàng đã chấp nhận. Địa chỉ liên lạc chính thức của Vexere:
+
+    📄 Công ty TNHH Thương Mại Dịch Vụ Vexere
+
+    📄 Địa chỉ: Lầu 2, tòa nhà H3 Circo Hoàng Diệu, 384 Hoàng Diệu, Phường 6, Quận 4, Tp. Hồ Chí Minh, Việt Nam
+
+    📄 Điện thoại: 1900 888684
+
+    📄 Email: cs@vexere.com
+
+## Cam kết của Vexere dành cho khách hàng
+
+  📄 Mọi thông tin mà khách hàng cung cấp trong suốt quá trình đặt vé sẽ được bảo mật tuyệt đối, không chuyển giao cho bên thứ ba nào khác, trừ trường hợp buộc phải cung cấp khi Cơ quan pháp luật yêu cầu.
+
+  📄 Vexere sẽ có biện pháp xử lý khi phát hiện hoặc nhận được phản ánh từ khách hàng khi sử dụng dịch vụ và có phát sinh mâu thuẫn với hãng xe. Vexere sẽ tích cực hỗ trợ và bảo vệ quyền và lợi ích hợp pháp của khách hàng.
+
+  📄 Giá dịch vụ của khách hàng sẽ được thu đúng theo biểu giá tuyến đường do nhà xe cung cấp.
+
+  📄 Trong trường hợp có bất cứ sự cố nào phát sinh trong quá trình sử dụng dịch vụ như nhà xe hủy chuyến, nhà xe không có thông tin khách,… Vexere sẽ cố gắng hỗ trợ khách hàng tìm dịch vụ thay thế tùy thuộc vào các lựa chọn sẵn có. Trong trường hợp không có dịch vụ thay thế nào, Vexere cam kết sẽ có chính sách bồi hoàn thỏa đáng, và sẽ được điều chỉnh theo từng trường hợp cụ thể.
+
+## Vexere cam kết hoàn đến 150% giá trị thanh toán đối với trường hợp khách hàng không được nhà xe cung cấp dịch vụ vận chuyển
+
+  📄 *Chính sách “Cam kết hoàn đến 150% giá trị thanh toán đối với trường hợp khách hàng không được nhà xe giữ chỗ” chỉ áp dụng cho những khách hàng đặt chỗ trực tiếp tại website Vexere.com, ứng dụng Vexere hoặc liên hệ tổng đài Vexere để đặt chỗ. Không áp dụng cho khách hàng đặt vé từ các nguồn khác.
+
+  📄 Các trường hợp không được nhà xe cung cấp dịch vụ
+
+  • Khách hàng đã thanh toán nhưng hãng xe hết chỗ, hoặc khách đã thanh toán nhưng đến ngày đi không có thông tin đã đặt chỗ – Vexere và nhà xe phải tìm được chuyến xe khác cho khách trong vòng 18h (sớm hơn hoặc muộn hơn) so với giờ khởi hành của chuyến ban đầu thì mới tính là có sử dụng dịch vụ xe khách. Trường hợp tìm được chuyến khác nhưng nằm ngoài khung 18h thì cũng coi như khách hàng không được cung cấp dịch vụ.
+
+  • Khách hàng đã đặt chỗ và thanh toán nhưng xe không đón – Vexere và hãng xe không tìm được xe khác để đón khách.
+
+  • Hãng xe hủy chuyến (trừ các lý do bất khả kháng) – Vexere không tìm được xe khác phù hợp để khách di chuyển.
+
+  📄 Chính sách hoàn 150% giá trị thanh toán sẽ áp dụng cho khách hàng đã thanh toán trước đơn hàng xe khách tại Vexere, chưa hỗ trợ cho các khách thanh toán sau (thanh toán tại nhà xe hoặc thanh toán khi lên xe).
+
+  📄 Chính sách hoàn 150% so với số tiền thực tế mà khách đã thanh toán (không bồi hoàn phần khuyến mãi/giảm giá); phần hoàn lại bao gồm 100% số tiền khách thanh toán đơn hàng và voucher giảm giá 50% (tính trên số tiền đơn hàng thực tế mà khách đã thanh toán) cho lần đặt chỗ tiếp theo. Voucher thông thường sẽ có hạn sử dụng là 2 tháng, tuy nhiên trong một vài trường hợp đặc biệt, Vexere có thể thay đổi thời hạn sử dụng cho phù hợp.
+
+  📄 Những trường hợp chưa được xem là nhà xe không cung cấp dịch vụ
+
+  • Hãng xe chưa hỗ trợ xuất hoá đơn hoặc hoá đơn điện từ (Tờ hành trình/phiếu thu hoặc tờ xác nhận hành trình) hoặc hóa đơn VAT.
+
+  • Vexere hoặc hãng xe tìm được xe khác để khách di chuyển nhưng chưa đúng vị trí giường/ghế khách đã đặt trước đó.
+
+  • Vexere hoặc hãng xe tìm được xe khác hỗ trợ nhưng chưa đúng giờ/loại xe/thương hiệu xe.
+
+  • Một số sự cố phải thanh toán thêm phí phụ thu (khách đã thanh toán đủ tiền của đơn hàng nhưng lên xe tài xế báo phải thanh toán thêm).
+
+  • Nhà xe hủy chuyến do các sự kiện bất khả kháng như: động đất, sóng thần, sạt lở, lũ lụt, giông bão, dịch bệnh, chiến tranh, đình công,…
+
+  📄 Vexere sẽ chưa hỗ trợ hoàn 150% giá trị thanh toán ở những trường hợp này. Tuy nhiên, Vexere sẽ có những chính sách khác hỗ trợ khách hàng khi xảy ra những sự cố không mong muốn.
+
+  📄 Vexere chưa hỗ trợ hoàn 150% giá trị thanh toán trong trường hợp lý do từ hành khách
+
+  • Khách hàng đặt chỗ nhầm thông tin.
+
+  • Tài xế, nhà xe không liên hệ được khách theo thông tin đã đăng ký dẫn đến không đón khách được.
+
+  • Khách hàng ra bến xe hoặc vị trí chờ xe trễ hơn thời gian dự kiến mà Vexere thông báo.
+
+  • Khách hàng mang theo hành lý cồng kềnh, vượt quá tải trọng mà không thông báo trước hoặc làm trái quy định của nhà xe dẫn đến hãng xe từ chối phục vụ (hành lý có mùi, động vật, hàng hóa cồng kềnh,…).
+
+  📄 Vexere.com – Nền tảng kết nối người dùng và nhà xe
+
+  📄 Tải ngay App Vexere để nhận thông báo các chương trình khuyến mãi trong tháng
+
