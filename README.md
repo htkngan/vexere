@@ -130,14 +130,6 @@ vexere/
 
 Nếu không có Redis, hệ thống sẽ sử dụng memory storage.
 
-### API Keys
-
-Thêm API keys vào file `.env` để bảo mật:
-
-```env
-API_KEYS=key1,key2,key3
-```
-
 ## 📊 Monitoring
 
 Truy cập `/stats` để xem thống kê hệ thống.
